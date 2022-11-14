@@ -1,0 +1,33 @@
+-> baseURL
+
+https://tanzil.net/res/audio
+
+-> reciters
+
+abdulbasit
+abdulbasit-mjwd
+afasy
+ajamy
+akhdar
+ghamadi
+hudhaify
+husary
+husary-mjwd
+juhany
+matrood
+minshawi
+minshawi-mjwd
+muaiqly
+qasim
+hani
+sudais
+shateri
+shuraim
+tablawi
+basfar
+basfar2
+bukhatir
+ayyub
+jibreel
+parhizgar
+
